@@ -1,4 +1,7 @@
+# This repository is not actively maintained anymore. For the latest updates
+
 # dango-albert
+
 Extension for albert for looking up emojis and kaomojis.
 
 The kaomoji extension does not require any setting up.
