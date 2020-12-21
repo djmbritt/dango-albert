@@ -1,4 +1,4 @@
-# This repository is not actively maintained anymore. For the latest updates
+# This repository is not actively maintained anymore. 
 
 # dango-albert
 
